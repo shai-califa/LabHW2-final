@@ -10,3 +10,4 @@ https://drive.google.com/file/d/13SPNmOAdzEC4ta21m3TyX_TgVsTTNsq5/view?usp=shari
 and</br>
 netDt4: 
 https://drive.google.com/file/d/1YtPhY-r4-BfVXClFWO_HA5EbmCpS4nn8/view?usp=sharing
+</br>You may also enter the file at the repositry and download it directly from there.
