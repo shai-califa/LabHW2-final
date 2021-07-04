@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34c4e48e251e72476b1579a89e1eb1b456bb1b35b71e7d3b2e5c23b58437e1e4
-size 760
+# Lab_HW2
+Trying to predict if a mask is worn correctly and segment it.</br>
+netD is the simple network, to run this model set the model_type variable at predict.py to 'small'.</br>
+netDt4 is the resNet like network, to run this model set the model_type variable at predict.py to 'big'.</br>
+main.py is the training code supplied here for comleteness do not run it. It may override existing models. It also includes failed attempts.</br>
+We used a program called lfs to upload the model files if after cloaning they are corrupted you can find working models at:</br>
+https://drive.google.com/file/d/13SPNmOAdzEC4ta21m3TyX_TgVsTTNsq5/view?usp=sharing
+</br>
+and</br>
+https://drive.google.com/file/d/1YtPhY-r4-BfVXClFWO_HA5EbmCpS4nn8/view?usp=sharing
